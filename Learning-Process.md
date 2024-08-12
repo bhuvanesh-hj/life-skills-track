@@ -28,10 +28,10 @@ The most interesting idea was how the brain switches between focused and diffuse
 ### Question 4
 **According to the video, what are the steps to take when approaching a new topic?**
 
-    1. Deconstruct the skill.
-    2. Learn enough to self-correct.
-    3. Remove practice barriers.
-    4. Practice for at least 20 hours.
+1. Deconstruct the skill.
+2. Learn enough to self-correct.
+3. Remove practice barriers.
+4. Practice for at least 20 hours.
 
 
 ## 4. Learning Principles in the Bootcamp

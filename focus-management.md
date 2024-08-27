@@ -47,5 +47,3 @@
 - **Reduced Productivity:** Constant interruptions from notifications can break concentration and lead to fragmented work sessions.
 - **False Sense of Connection:** Social media can create superficial connections, reducing meaningful face-to-face interactions and leading to isolation.
 - **Exposure to Misinformation:** Social media can spread misinformation and fake news, impacting decision-making and beliefs.
-
-To avoid these dangers, use social media mindfully and in moderation, set limits on usage, and make time for real-world interactions and activities that promote well-being.

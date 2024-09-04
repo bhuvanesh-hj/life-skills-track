@@ -4,8 +4,6 @@
 
 ### Question 1:
 What are the activities you do that make you relax - Calm quadrant?<br>
-**Answer** <br>
-The activities that make me relax and fall into the "Calm" quadrant.Here are some important points that I follow.
 1. **Meditation**: Meditating calms my mind, reduces stress, and promotes inner peace through focused breathing and mindfulness.<br>
 2. **Listening to calming music**: When I get Stress I listen Music and relax myself.<br>
 3. **Reading a book**: Reading Atomic habit and other books beacuse that's, offering mental relaxation and escape from daily stressors.
@@ -14,62 +12,44 @@ The activities that make me relax and fall into the "Calm" quadrant.Here are som
 ### Question 2:
 When do you find getting into the Stress quadrant?<br>
 
-
-**Answer**:<br>
-I experience stress when I am facing this problem.<br>
 1. **Work-related deadlines**: High-pressure projects and tight deadlines can trigger stress.
 2. **Financial concerns**: Managing bills, debts, and financial instability can cause stress.
 3. **Relationship conflicts**: Disagreements and misunderstandings with loved ones contribute to stress.
+4. **Facing new challenges**: Every time I take on a new challenge.
 
 ### Question 3:
 How do you understand if you are in the Excitement quadrant?<br>
 
-**Answer**:<br>
-I know I'm in the Excitement quadrant when I feel a surge of energy and motivation, experience enthusiasm, have a strong sense of accomplishment, find it easy to focus, and feel eager to take on challenges and try new things. It's a positive emotional state.
+When I feel motivated, when I solve a problem and share my solution with others, when I find it simple to concentrate, and when I'm excited to attempt new things and take on challenges, I know I'm in the excitement quadrant.
 
 ### Question 4
 Paraphrase the Sleep is your Superpower video in your own words in brief. Only the points, no explanation.
 
-**Answer**:<br>
 Here are the main points from the "Sleep is your Superpower" video
 
-- Inadequate sleep can lead to reduced testosterone levels in men and impact reproductive health in both men and women.
+- The brain's capacity to create new memories is reduced by 40% when sleep is lacking, underscoring the significance of sleep for memory and learning.
 
-- Lack of sleep can result in a 40% deficit in the brain's ability to form new memories, emphasizing the importance of sleep for learning and memory.
+- Sleep is essential for heart health because heart attack rates can be affected by even a one-hour shift in sleep length during daylight saving time.
 
-- Quality deep sleep, characterized by sleep spindles, plays a critical role in transferring and protecting memories, which can have implications for cognitive health, particularly in the context of aging and Alzheimer's disease.
-
-- Sleep plays a vital role in heart health, as even a one-hour change in sleep duration during daylight saving time can impact heart attack rates.
-
-- Sleep deprivation can cause a 70% drop in natural killer cell activity, potentially increasing the risk of various forms of cancer, including breast, bowel, and prostate cancer.
+- Lack of sleep can result in a 70% decrease in natural killer cell activity, which may raise the risk of prostate, bowel, and breast cancers, among other cancers.
 
 
 ### Question 5
 What are some ideas that you can implement to sleep better?
 
-Sleep is essential for my overall well-being. Here are some tips to help and improve my sleep quality:
-
-1. **Establish a Consistent Sleep Schedule:**<br>
+1. **Establish a Consistent Sleep Schedule:**
    - Go to bed and wake up at the same time every day, including weekends.
 2. **Create a Relaxing Bedtime Routine:**
    - Engage in calming activities before bed, such as reading books or taking a warm bath.
-   - Avoid stimulating activities like watching TV or using electronic devices.
 
-3. **Optimize my Sleep Environment:**
-   - Ensure my bedroom is comfortable by regulating temperature, noise, and light.
-
-4. **Watch my Diet and Caffeine Intake:**
+3. **Watch my Diet and Caffeine Intake:**
    - Avoid heavy meals, caffeine, and alcohol close to bedtime. bacause these can disrupt my sleep or make it harder to fall asleep.
 
-5. **Manage Stress and Anxiety:**
+4. **Manage Stress and Anxiety:**
    - Practice relaxation techniques like deep breathing or meditation to reduce stress.
-
-By following these small tips, I can create an environment that promotes better sleep and enhances my overall health.
 
 ### Question 6
 Brain Changing Benefits of Exercise. Minimum 5 points, only the points.<br>
-
-Exercise offers significant advantages for the brain. Here are key points to consider:<br>
 
 1. **Immediate and Long-Lasting Benefits:** Exercise boosts mood, focus, and protects against conditions like depression, Alzheimer's, and dementia.
 
@@ -82,7 +62,7 @@ Exercise offers significant advantages for the brain. Here are key points to con
 5. **Lifelong Protection:** Regular exercise not only improves your quality of life today but also acts as a protective shield against incurable brain diseases, positively altering the trajectory of your life.
 
 ### Question 7
-What are some steps you can take to exercise more?<br><br>
+What are some steps you can take to exercise more?<br>
 
 1. **Set Clear Goals:**
    - Define my exercise objectives, whether it's weight loss, improved fitness, or other health goals.
@@ -99,5 +79,4 @@ What are some steps you can take to exercise more?<br><br>
 5. **Stay Consistent:**
    - Maintain my exercise schedule, even on days when motivation is low, to build a lasting habit.
 
-By following these steps, I can enhance my fitness and overall well-being.
 

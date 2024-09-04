@@ -41,35 +41,28 @@
 3) **Lack of Knowledge or Confidence:** When unsure or lacking expertise on a topic.
 4) **Personal Relationships:** To avoid upsetting loved ones or when seeking to please others.
 5) **Professional Settings:** To adhere to protocols or when delegating tasks.
-6) **Cultural or Social Norms:** To align with cultural expectations or formal settings.
-7) **During Reflection:** When taking time to process information before responding.
 
 ### Question 6 : When do you switch into Aggressive communication styles in your day to day life?
 
-1) **Defending Against Criticism**
-2) **High-Stakes Negotiations**
-3) **Frustration or Anger**
-4) **Power Struggles**
-5) **Competitive Situations**
-6) **Feeling Ignored or Unheard**
+I hardly use aggressive communication as I mostly avoid trouble and making bad relations with anyone by using passive-aggressive or satirical methods or by using assertive communication methods. At very rare moments when I use Aggressive communication, it is mostly with someone with whom I am very familiar to communicate.
 
 ### Question 7 : When do you switch into Passive Aggressive (sarcasm/gossiping/taunts/silent treatment and others) communication styles in your day to day life?
 
-1) **When Avoiding Direct Conflict:** Using sarcasm or subtle remarks instead of addressing issues directly.
-2) **Feeling Powerless:** Engaging in gossiping to express dissatisfaction indirectly.
-3) **When Feeling Overlooked:** Using the silent treatment to show discontent without confrontation.
-4) **In Response to Frustration:** Using taunts or subtle jabs when unable to express frustration openly.
-5) **To Manipulate or Control:** Employing indirect communication to influence others' perceptions or actions.
+1) **When Avoiding Direct Conflict** 
+2) **Feeling Powerless** 
+3) **When Feeling Overlooked** 
+4) **In Response to Frustration** 
+5) **To Manipulate or Control** 
 
 ### Question 8 : How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life? (Watch the videos first before answering this question.)
 
-1) **Use "I" Statements:** E.g., "I feel... because..."
-Be Direct: State your message clearly and simply.
-2) **Maintain Eye Contact:** Show confidence.
-3) **Keep a Calm Tone:** Avoid yelling or sounding aggressive.
-4) **Listen Actively:** Show you’re listening by nodding and summarizing.
-5) **Set Boundaries:** Clearly state your limits.
-6) **Be Respectful:** Acknowledge others' feelings while expressing your own.
-7) **Practice Regularly:** Rehearse assertive responses in everyday situations.
+1) **Use "I" Statements**
+2) **Be Direct** State your message clearly and simply.
+3) **Maintain Eye Contact:** Show confidence.
+4) **Keep a Calm Tone** 
+5) **Listen Actively** 
+6) **Set Boundaries**
+7) **Be Respectful**
+8) **Practice Regularly**
 
 
